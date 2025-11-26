@@ -1,0 +1,122 @@
+[
+  {
+    "name": "JavaScript: The Good Parts",
+    "price": 29.99,
+    "category": "books",
+    "description": "A comprehensive guide to JavaScript best practices and patterns. Learn the beautiful, elegant, lightweight and highly expressive language known as JavaScript."
+  },
+  {
+    "name": "Clean Code",
+    "price": 35.5,
+    "category": "books",
+    "description": "A Handbook of Agile Software Craftsmanship by Robert C. Martin. Learn how to write clean, maintainable code."
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "price": 45.99,
+    "category": "electronics",
+    "description": "Ergonomic wireless gaming mouse with RGB lighting, 6 programmable buttons, and 2.4GHz connection. DPI up to 16000."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "category": "electronics",
+    "description": "RGB mechanical gaming keyboard with Cherry MX Blue switches. Full-size layout with dedicated media keys and USB passthrough."
+  },
+  {
+    "name": "USB-C Hub",
+    "price": 34.99,
+    "category": "electronics",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0 ports, SD card reader, and 100W power delivery. Compatible with MacBook and Windows laptops."
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "price": 19.99,
+    "category": "clothing",
+    "description": "100% organic cotton t-shirt, available in multiple colors. Comfortable, breathable, and eco-friendly. Unisex fit."
+  },
+  {
+    "name": "Denim Jeans",
+    "price": 59.99,
+    "category": "clothing",
+    "description": "Classic straight-fit denim jeans. Premium quality fabric with stretch for comfort. Available in various sizes and washes."
+  },
+  {
+    "name": "Winter Hoodie",
+    "price": 45.0,
+    "category": "clothing",
+    "description": "Warm and cozy winter hoodie with fleece lining. Features kangaroo pocket and adjustable drawstring hood."
+  },
+  {
+    "name": "Laptop Stand",
+    "price": 35.0,
+    "category": "electronics",
+    "description": "Adjustable aluminum laptop stand with ergonomic design. Improves posture and cooling. Fits laptops up to 17 inches."
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": 79.99,
+    "category": "electronics",
+    "description": "Wireless over-ear headphones with active noise cancellation. 30-hour battery life, premium sound quality, and comfortable design."
+  },
+  {
+    "name": "Programming Socks",
+    "price": 12.99,
+    "category": "clothing",
+    "description": "Comfortable cotton socks perfect for long coding sessions. Fun programming-themed designs. Pack of 3 pairs."
+  },
+  {
+    "name": "The Pragmatic Programmer",
+    "price": 42.0,
+    "category": "books",
+    "description": "Your Journey To Mastery by Andrew Hunt and David Thomas. A classic guide to software craftsmanship and professional development."
+  },
+  {
+    "name": "Design Patterns Book",
+    "price": 54.99,
+    "category": "books",
+    "description": "Elements of Reusable Object-Oriented Software. The Gang of Four classic on software design patterns."
+  },
+  {
+    "name": "Spiral Notebook A5",
+    "price": 8.99,
+    "category": "other",
+    "description": "A5 spiral-bound notebook with 200 lined pages. Perfect for notes, journaling, or sketching. Durable cover."
+  },
+  {
+    "name": "Desk Organizer",
+    "price": 24.99,
+    "category": "other",
+    "description": "Bamboo desk organizer with multiple compartments for pens, papers, and office supplies. Eco-friendly and stylish."
+  },
+  {
+    "name": "LED Desk Lamp",
+    "price": 39.99,
+    "category": "electronics",
+    "description": "Adjustable LED desk lamp with touch control and 3 brightness levels. Eye-caring light for reading and working. USB charging port included."
+  },
+  {
+    "name": "Webcam 1080p",
+    "price": 49.99,
+    "category": "electronics",
+    "description": "Full HD 1080p webcam with built-in microphone. Auto-focus and low-light correction. Perfect for video calls and streaming."
+  },
+  {
+    "name": "Backpack",
+    "price": 69.99,
+    "category": "other",
+    "description": "Water-resistant laptop backpack with USB charging port. Fits laptops up to 15.6 inches. Multiple compartments for organization."
+  },
+  {
+    "name": "You Don't Know JS",
+    "price": 28.5,
+    "category": "books",
+    "description": "Book series by Kyle Simpson diving deep into JavaScript mechanics. Essential reading for serious JavaScript developers."
+  },
+  {
+    "name": "Rubber Duck",
+    "price": 5.99,
+    "category": "other",
+    "description": "Classic yellow rubber duck for rubber duck debugging. An essential tool for every programmer's desk!"
+  }
+]
